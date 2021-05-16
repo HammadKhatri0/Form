@@ -1,0 +1,18 @@
+body{
+	background-color: #48C9B0;
+	text-align: center;
+	margin: 0px;
+	margin: 25px
+}
+.container{
+	background-color: #f5f5f5;
+	text-align: center;
+	padding: 5px;
+	margin: 25px;
+	font-size: 25px;
+}
+table{
+	font-size: 15px;
+	padding-right: 150px;
+	border-spacing: 25px;
+}
